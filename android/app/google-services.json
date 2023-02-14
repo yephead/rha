@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "121716828250",
+    "project_id": "wheel-wise",
+    "storage_bucket": "wheel-wise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121716828250:android:574327bfe3d732d98a1063",
+        "android_client_info": {
+          "package_name": "com.truwheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121716828250-7ot4c96qookps25it42ak7o60nh70ilg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truwheel",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "121716828250-scdbsduj720g3shrp4l8rimsa8p98253.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KYz9igN74Kn0CeU5vIDO6DpjLevjpYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121716828250-j5hg2r54s8t1c9uumao7672oijb2gdvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121716828250-08hsqm3n6bad0ihb0eusrftid479tvll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wheelwise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121716828250:android:18eec74241ecbc2a8a1063",
+        "android_client_info": {
+          "package_name": "com.wheelwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121716828250-bngjs73d30gd599ffkiu0rlt07jitabd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wheelwise",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "121716828250-scdbsduj720g3shrp4l8rimsa8p98253.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KYz9igN74Kn0CeU5vIDO6DpjLevjpYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121716828250-j5hg2r54s8t1c9uumao7672oijb2gdvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121716828250-08hsqm3n6bad0ihb0eusrftid479tvll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wheelwise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121716828250:android:2dc0dbaf3db0d5ab8a1063",
+        "android_client_info": {
+          "package_name": "wheelwise.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121716828250-nlimiqug78d1f8gl8sol11uccqc51emk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wheelwise.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "121716828250-scdbsduj720g3shrp4l8rimsa8p98253.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KYz9igN74Kn0CeU5vIDO6DpjLevjpYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121716828250-j5hg2r54s8t1c9uumao7672oijb2gdvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121716828250-08hsqm3n6bad0ihb0eusrftid479tvll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wheelwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
